@@ -1,6 +1,6 @@
 # Ecommerce-Sales-Dashboard---using-Power-BI--Mahadev-Ecommerce-Store
 
-Analyze e-commerce sales data for creating and interacting Dashboard using Power B.I 
+Analyze e-commerce sales data for creating and interacting Dashboard using Power BI 
 
 # Question is About:-
 The owner of the Mahadev Store wants us to help them create a dashboard to track and analyze their online sales across India.
