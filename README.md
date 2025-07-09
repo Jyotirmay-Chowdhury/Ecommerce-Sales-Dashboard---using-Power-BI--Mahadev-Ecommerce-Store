@@ -1,5 +1,9 @@
 # Ecommerce-Sales-Dashboard---using-Power-BI--Mahadev-Ecommerce-Store
 
+The dashboard looks like:- 
+
+Example:![DashboardPreview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+
 Analyze e-commerce sales data for creating and interacting Dashboard using Power BI 
 
 # Question is About:-
